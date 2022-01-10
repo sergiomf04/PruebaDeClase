@@ -5,6 +5,7 @@ public class HolaGit {
 		System.out.println("HolaGit!!!");
 		System.out.println("Hoola!!!");
 		System.out.println("Versionremota");
+		System.out.println("Version del becario");
 	}
 
 }
